@@ -1,0 +1,11 @@
+
+server:
+  port: 8090
+
+logging:
+  level:
+    '[com.example]': debug
+
+ps:
+  dummyEndpoint: http://localhost:8090 #for die HelloWorldConfiguration
+  endpoint: http://localhost:8090 #for die ConfigurationRecord

@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS ps__user (id UUID PRIMARY KEY, first_name VARCHAR(255), name VARCHAR(255));
